@@ -4,7 +4,7 @@
 
 # Hey there 👋
 
-I'm a seasoned software developer with 7 years of diverse experience in the tech industry, ranging from freelance work to roles as a Full-Stack Developer and Software Engineer. Driven by a passion for technology and an eagerness for continuous learning, I am always ready to tackle new challenges and broaden my expertise.
+I'm a seasoned software developer with several years of diverse experience in the tech industry, ranging from freelance work to roles as a Full-Stack Developer and Software Engineer. Driven by a passion for technology and an eagerness for continuous learning, I am always ready to tackle new challenges and broaden my expertise.
 
 I pride myself on being proactive and continuously engaged in learning new technologies and methodologies. My career is marked by persistence, commitment, and the ability to adapt to new challenges, ensuring the delivery of high-quality software solutions.
 
